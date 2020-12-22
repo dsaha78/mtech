@@ -16,23 +16,22 @@ For this problem, ignore the problem metrics. Ignore the units of tree length li
 
 The marks distribution is as follows
 
-Import the libraries and Load the dataset and Remove/replace missing values (if any) [1M]
-Split features and labels [0.5M]
-Split train and test data [0.5M}
-Implement Random Forest Classifier [2M]
-Calculate accuracy measures [1.5M]
+- Import the libraries and Load the dataset and Remove/replace missing values (if any) [1M]
+- Split features and labels [0.5M]
+- Split train and test data [0.5M}
+- Implement Random Forest Classifier [2M]
+- Calculate accuracy measures [1.5M]
  
 
 ## For the same dataset, implement classification with the neural network using Keras in Python. [6M]
 
 The marks distribution is as follows
 
-Import the libraries and Load the dataset and Remove/replace missing values (if any) [1M]
-Split features and labels [0.5M]
-Split train and test data [0.5M}
-Implement Neural Network Classifier using Keras [2M]
-Calculate accuracy measures [1.5M]
+- Import the libraries and Load the dataset and Remove/replace missing values (if any) [1M]
+- Split features and labels [0.5M]
+- Split train and test data [0.5M}
+- Implement Neural Network Classifier using Keras [2M]
+- Calculate accuracy measures [1.5M]
  
-
 Compare the results and accuracies for both the algorithms and share your inferences. [1M]
 
