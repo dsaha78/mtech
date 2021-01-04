@@ -1,8 +1,7 @@
 # Objective
 Identify presence of heart disease.
 # Dataset
-Dataset is available following Link
-[Data](https://www.kaggle.com/ronitf/heart-disease-uci)
+Dataset is available following [Link](https://www.kaggle.com/ronitf/heart-disease-uci).
 
 # Possible Work to be done
 1.	What is the primary objective that you are addressing and why?
@@ -15,4 +14,3 @@ Dataset is available following Link
 8.	What will be your criteria to select the classification algorithm?
 9.	How will you evaluate the performance of two classifier that you investigated and state which is better
 10. Can you deploy your model in real time? What are the challenges?
-
